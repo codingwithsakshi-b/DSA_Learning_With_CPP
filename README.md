@@ -2,6 +2,36 @@
 > Empowering your Data Structures & Algorithms journey, one line of code at a time.
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)](https://isocpp.org/) [![Progress](https://img.shields.io/badge/Progress-20%25-yellow)]() [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/codingwithsakshi-b/DSA_Learning_With_CPP/actions) [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/codingwithsakshi-b/DSA_Learning_With_CPP?style=flat)](https://github.com/codingwithsakshi-b/DSA_Learning_With_CPP/commits)
+[![GitHub issues](https://img.shields.io/github/issues/codingwithsakshi-b/DSA_Learning_With_CPP)](https://github.com/codingwithsakshi-b/DSA_Learning_With_CPP/issues)
+
+---
+
+## 📚 Table of Contents
+
+- [About](#-about)
+- [Folder Structure](#-folder-structure)
+- [Getting Started](#-getting-started)
+- [How to Compile & Run](#️-how-to-compile--run)
+- [Progress Tracker](#-progress-tracker)
+- [Project Highlights](#-project-highlights)
+- [Vibe Corner](#-vibe-corner)
+- [Connect with Me](#-connect-with-me)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## ✨ About Me
+> Hey there! 👋 I'm Sakshi Sharma, a curious coder 🧠 on a mission to master C++ 💻 and crack Data Structures & Algorithms (DSA) 📚 — one challenge at a time.
+This repository is my personal coding journal 📓 — packed with experiments 🔬, projects 🛠️, lessons learned 📖, and those exciting "aha!" moments ✨.
+I believe in learning by doing 🚀, embracing mistakes 🙌, and growing with every line of code. 🌱
+
+## 🎯 Learning Goals
+- Master core C++ concepts.
+- Solve 500+ DSA problems.
+- Build 10+ mini and advanced C++ projects.
+- Develop a strong problem-solving mindset.
 
 ---
 
