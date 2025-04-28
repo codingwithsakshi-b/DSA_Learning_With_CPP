@@ -9,6 +9,7 @@
 
 ## 📚 Table of Contents
 
+- [About me](#-about-me)
 - [About](#-about)
 - [Folder Structure](#-folder-structure)
 - [Getting Started](#-getting-started)
