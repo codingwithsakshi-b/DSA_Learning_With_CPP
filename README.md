@@ -27,6 +27,11 @@
 This repository is my personal coding journal 📓 — packed with experiments 🔬, projects 🛠️, lessons learned 📖, and those exciting "aha!" moments ✨.
 I believe in learning by doing 🚀, embracing mistakes 🙌, and growing with every line of code. 🌱
 
+- 🛠️ Skills: C++ 💻 | DSA 📚 | Problem Solving 🧩 | OOP Concepts 🏛️ | Algorithms ⚙️ | Clean Code Principles 🧹
+> _"Every bug 🐞 is a hidden lesson ✨."_ 
+
+---
+
 ## 🎯 Learning Goals
 - Master core C++ concepts.
 - Solve 500+ DSA problems.
