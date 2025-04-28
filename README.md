@@ -1,9 +1,10 @@
 # DSA_Learning_With_CPP
 > Empowering your Data Structures & Algorithms journey, one line of code at a time.
 
-[![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)](https://isocpp.org/) [![Progress](https://img.shields.io/badge/Progress-20%25-yellow)]() 
+[![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)](https://isocpp.org/) 
+[![Progress](https://img.shields.io/badge/Progress-20%25-yellow)]() 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/codingwithsakshi-b/DSA_Learning_With_CPP/actions) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/codingwithsakshi-b/DSA_Learning_With_CPP?style=flat)](https://github.com/codingwithsakshi-b/DSA_Learning_With_CPP/commits)
 [![GitHub issues](https://img.shields.io/github/issues/codingwithsakshi-b/DSA_Learning_With_CPP)](https://github.com/codingwithsakshi-b/DSA_Learning_With_CPP/issues)
 
