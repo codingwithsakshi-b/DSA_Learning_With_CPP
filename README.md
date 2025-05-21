@@ -41,17 +41,19 @@ I believe in learning by doing 🚀, embracing mistakes 🙌, and growing with e
 - Solve 500+ DSA problems.
 - Build 10+ mini and advanced C++ projects.
 - Develop a strong problem-solving mindset.
+- Practice DSA weekly and reflect in the Vibe Corner.
 
 ---
 
-## 📖 About
+## 📖 About the Repository
 
 This repository chronicles my complete journey of mastering C++ and Data Structures & Algorithms (DSA). It contains:
 
 - Lecture code snippets and examples.
-- Practice questions and solutions.
+- Weekly practice problems.
 - Mini and advanced projects showcasing practical implementations.
 - Personal notes, tips, and reflections in the "Vibe Corner".
+- Notes, markdown tips, and coding reflections.
 
 I'm Sakshi Sharma, and through this repo, I aim to build, learn, and share every step of my coding adventure. 🚀
 
