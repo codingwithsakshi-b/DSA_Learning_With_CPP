@@ -117,7 +117,9 @@ Coming soon... Stay tuned! 🚀
 ## 🎉 Vibe Corner
 
 A space for my personal notes, tips, tricks, and reflections—written in Markdown to capture the highs, lows, and aha moments of my coding journey.
+y notes, tips & reflections — all Markdown magic capturing the highs & aha moments of C++ coding 🚀💡.
 
+📂 Includes [folder_overview.md](Vibe_Corner/folder_overview.md) 📝 — a quick guide to C++ lectures 🎓📚.
 ---
 
 ## 📫 Connect with Me
