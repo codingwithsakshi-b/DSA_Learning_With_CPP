@@ -132,8 +132,7 @@ Coming soon... Stay tuned! 🚀
 ## 🤝 Contributing
 
 Contributions, suggestions, and feedback are welcome! Feel free to open issues or submit pull requests. Let's learn together. ✨
-> My notes, tips & reflections — all Markdown magic capturing the highs & aha moments of C++ coding 🚀💡.
-- 📂 Includes [folder_overview.md](Vibe_Corner/folder_overview.md) 📝 — a quick guide to C++ lectures 🎓📚.
+
 ---
 
 ## 📄 License
