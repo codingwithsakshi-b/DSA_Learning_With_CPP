@@ -126,6 +126,7 @@ Coming soon... Stay tuned! 🚀
 - 📧 Email: [studystudy7867@gmail.com](mailto:studystudy7867@gmail.com)
 - 🐦 X (Twitter): [@codingwithsaksh](https://twitter.com/codingwithsaksh)
 - 💻 GitHub: [codingwithsakshi-b](https://github.com/codingwithsakshi-b)
+- 🌸 WP_blog: [WP_blog](https://sakshidsa.hashnode.dev/)
 
 ---
 
